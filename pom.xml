@@ -15,7 +15,8 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <jakartaee>8.0</jakartaee>
-        <sonar.qualitygate.wait>true</sonar.qualitygate.wait>  
+        <sonar.organization>jhianpolmaximilianoramosgil</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     
     <dependencies>
